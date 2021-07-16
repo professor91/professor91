@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sainikeshav
-- 👀 I’m interested in programming(nothing specific yet)
-- 🌱 I’m currently learning discord.py
-- 💞️ I’m looking to collaborate on intermediate projects either in c++ or python
+- 👀 I’m interested in back-end development.
+- 🌱 I’m currently learning JAVA.
+- 💞️ I’m looking to collaborate on intermediate projects either in C++, JAVA or Python
 - 📫 How to reach me through my email- keshavsaini1820@gmail.com
 
 <!---
