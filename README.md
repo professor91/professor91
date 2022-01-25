@@ -2,10 +2,12 @@
 ### A Data Science enthusiast
 
 <!-- GitHub Stats -->
+<div style="display:block">
 <p><img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" /></p>
 
 <!-- Languages Used Stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=professor91&show_icons=true&locale=en&layout=compact" alt="professor91" /></p>
+</div>
 
 ### Connect with me:
 <p align="left">
