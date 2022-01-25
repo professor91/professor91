@@ -2,7 +2,7 @@
 ### A Data Science enthusiast
 
 <!-- GitHub Stats -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" /></p>
 
 
 ### Connect with me:
