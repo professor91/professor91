@@ -2,10 +2,9 @@
 ### A Data Science enthusiast
 
 <!-- GitHub Stats -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" /></p>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=professor91&" alt="professor91" />
-</p>
+
 
 ### Connect with me:
 <p align="left">
