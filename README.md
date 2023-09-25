@@ -1,5 +1,5 @@
 # Hi 👋, I'm Keshav Saini
-### A Data Science enthusiast
+### A coding enthusiast
 
 <!-- GitHub Stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=professor91&show_icons=true&locale=en" alt="professor91" /></p>
